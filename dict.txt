@@ -1,0 +1,5 @@
+dict={'1':'Blue','2':'Black','3':'Red'}
+print(dict['3'])
+print(len(dict))
+dict.update({'2':'Green'})
+print(dict)
